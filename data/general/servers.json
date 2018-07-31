@@ -1,0 +1,292 @@
+{
+    "108042598832148480": {
+        "leave_msg": null,
+        "name": "Incorporated",
+        "prefix": ";",
+        "welc_channel": null,
+        "welc_msg": null
+    },
+    "110373943822540800": {
+        "leave_msg": null,
+        "name": "Discord Bots",
+        "prefix": "s!!",
+        "welc_channel": null,
+        "welc_msg": null
+    },
+    "175724080392044545": {
+        "leave_msg": null,
+        "name": "F\u03373\u0337_K\u0337S\u0337A\u0337\u263a.",
+        "prefix": ";",
+        "welc_channel": null,
+        "welc_msg": null
+    },
+    "264445053596991498": {
+        "leave_msg": "{user} left the server. \ud83d\ude2d",
+        "name": "Discord Bot List",
+        "prefix": "s!!",
+        "welc_channel": "<#265156361791209475>",
+        "welc_msg": "**{user}** joined the server \ud83d\ude04. We now have {member_count} members."
+    },
+    "309732495191048193": {
+        "leave_msg": null,
+        "name": "TABETHIER",
+        "prefix": ";/",
+        "welc_channel": null,
+        "welc_msg": null
+    },
+    "327889199820701696": {
+        "leave_msg": null,
+        "name": "Programming Discord",
+        "prefix": ";",
+        "welc_channel": null,
+        "welc_msg": null
+    },
+    "336642139381301249": {
+        "leave_msg": null,
+        "name": "discord.py",
+        "prefix": ";",
+        "welc_channel": null,
+        "welc_msg": null
+    },
+    "372526440324923393": {
+        "leave_msg": null,
+        "name": "dat banana boi's bot house",
+        "prefix": "s.",
+        "welc_channel": null,
+        "welc_msg": null
+    },
+    "388381636628316161": {
+        "prefix": "s."
+    },
+    "396778979496820756": {
+        "leave_msg": null,
+        "name": "LaNeTLi BoQ",
+        "prefix": ";y",
+        "welc_channel": null,
+        "welc_msg": null
+    },
+    "400028193203027978": {
+        "leave_msg": "Oh; looks like {user} just left us; we will miss you buddy <3.",
+        "name": "The Legends \u263a",
+        "prefix": ";",
+        "welc_channel": "<#471158765966852097>",
+        "welc_msg": "Heyy {user} welcome to {server} server; :3."
+    },
+    "414248303455109120": {
+        "leave_msg": null,
+        "name": "Orelhox",
+        "prefix": ";mute 5 seconds <@!461664287237210113>",
+        "welc_channel": null,
+        "welc_msg": null
+    },
+    "416939159949803520": {
+        "leave_msg": null,
+        "name": "RandomCraft",
+        "prefix": "n",
+        "welc_channel": null,
+        "welc_msg": null
+    },
+    "417682937161711616": {
+        "leave_msg": "Hey mate stay with us",
+        "name": "Dodo",
+        "prefix": ";",
+        "welc_channel": "<#417682937165905922>",
+        "welc_msg": "Hey mate how's it going"
+    },
+    "419976110424457217": {
+        "leave_msg": null,
+        "name": "Beater Testing :0",
+        "prefix": ";",
+        "welc_channel": null,
+        "welc_msg": null
+    },
+    "423653460244955164": {
+        "leave_msg": null,
+        "name": "Cape Avik",
+        "prefix": "s;",
+        "welc_channel": null,
+        "welc_msg": null
+    },
+    "423657282614853632": {
+        "prefix": "avikisadumboyayajaja.hesux"
+    },
+    "425040510059675658": {
+        "prefix": "daku."
+    },
+    "428028433164140544": {
+        "prefix": ";"
+    },
+    "430437006787608577": {
+        "leave_msg": null,
+        "name": "Loaf Bot Support",
+        "prefix": ";",
+        "welc_channel": null,
+        "welc_msg": null
+    },
+    "431624520886124548": {
+        "leave_msg": "{user} left the server \ud83d\ude2d. At least we have {member_count} users.",
+        "name": "Sensei Support Server",
+        "prefix": ";",
+        "welc_channel": "<#431625496145428530>",
+        "welc_msg": "{user} joined the server! {mention}, if you have any questions, please ask in <#455461025698021386>."
+    },
+    "432199850084401153": {
+        "prefix": "_"
+    },
+    "436071319394844672": {
+        "leave_msg": "t-help",
+        "name": "CFL",
+        "prefix": ";serverinfo",
+        "welc_channel": null,
+        "welc_msg": null
+    },
+    "437077537437515776": {
+        "prefix": "s."
+    },
+    "438135569780965379": {
+        "leave_msg": null,
+        "name": "L3NNY's Dank Server",
+        "prefix": "s.",
+        "welc_channel": null,
+        "welc_msg": null
+    },
+    "438453453166215168": {
+        "prefix": ";"
+    },
+    "440900886114467850": {
+        "leave_msg": "Hello Welcome To VC This Is A Talking Server So Just Talk I Guess \nOwner is  <@385943728071639040>",
+        "name": "Voice Chat",
+        "prefix": ";help",
+        "welc_channel": "<#440900886114467852>",
+        "welc_msg": "Server"
+    },
+    "445360511635292162": {
+        "prefix": "s."
+    },
+    "446079955005079552": {
+        "leave_msg": null,
+        "name": "Steve\u2019s Public Discord",
+        "prefix": ">",
+        "welc_channel": null,
+        "welc_msg": null
+    },
+    "447081479265189888": {
+        "leave_msg": null,
+        "mod_log": null,
+        "prefix": ";",
+        "welc_channel": null,
+        "welc_msg": null
+    },
+    "449132847849275402": {
+        "leave_msg": null,
+        "name": "Eden Bots Play House",
+        "prefix": ";",
+        "welc_channel": null,
+        "welc_msg": null
+    },
+    "449417122662055938": {
+        "leave_msg": null,
+        "name": "Testjointhingy",
+        "prefix": ";",
+        "welc_channel": null,
+        "welc_msg": null
+    },
+    "455147522210529303": {
+        "leave_msg": "ok",
+        "mod_log": null,
+        "prefix": ";setupp",
+        "welc_channel": "<#455151626286792714>",
+        "welc_msg": "{mention}, Welcome to R-FA, we are a growing league, owned by goobie#5733 and \ud83d\udd25 iiDead_Boy#0258!"
+    },
+    "455464435599933460": {
+        "leave_msg": null,
+        "name": "CANABISE",
+        "prefix": "(y)",
+        "welc_channel": null,
+        "welc_msg": null
+    },
+    "455617817522470914": {
+        "leave_msg": null,
+        "mod_log": null,
+        "prefix": ";",
+        "welc_channel": null,
+        "welc_msg": null
+    },
+    "456211116826165249": {
+        "leave_msg": "Sad to see you go, {user}, but we never needed you in the first place... Because of you, our new member count is {member_count}.",
+        "name": "Mr. V's Class of '18",
+        "prefix": ";",
+        "welc_channel": "<#457689156538073088>",
+        "welc_msg": "Hey there, {user}! Welcome to the {server} server. You have just become member number {member_count}."
+    },
+    "459517171828129796": {
+        "leave_msg": "n",
+        "name": "wert",
+        "prefix": "_",
+        "welc_channel": "_ok",
+        "welc_msg": "ok"
+    },
+    "459854572534366208": {
+        "leave_msg": null,
+        "name": "Listcord",
+        "prefix": "s!",
+        "welc_channel": null,
+        "welc_msg": null
+    },
+    "460126688651771914": {
+        "leave_msg": null,
+        "name": "Teste de Bots",
+        "prefix": ";-;-;;;;;;;",
+        "welc_channel": null,
+        "welc_msg": null
+    },
+    "460268215931633675": {
+        "leave_msg": null,
+        "name": "Welcome",
+        "prefix": ";",
+        "welc_channel": null,
+        "welc_msg": null
+    },
+    "460964259329736704": {
+        "leave_msg": null,
+        "name": "Anti Josh_YT",
+        "prefix": "gaybot.",
+        "welc_channel": null,
+        "welc_msg": null
+    },
+    "461004941662617600": {
+        "leave_msg": null,
+        "name": "Genoa",
+        "prefix": ";",
+        "welc_channel": "<#461007102299865089>",
+        "welc_msg": "Welcome To {server} {mention} {user}\nThere are now {member_count} people in this server Boop Beep!"
+    },
+    "461528319989383169": {
+        "leave_msg": null,
+        "name": "My Hero Academia | Incarnate RP |",
+        "prefix": "Y",
+        "welc_channel": null,
+        "welc_msg": null
+    },
+    "462822770934546451": {
+        "leave_msg": "{user}  {server {member_count}",
+        "name": "Happy",
+        "prefix": ";prefix help",
+        "welc_channel": "<#463183456168443924>",
+        "welc_msg": "{user}\n{mention} \n{server}{member_count}"
+    },
+    "468001086511513601": {
+        "leave_msg": null,
+        "name": "The Ogre Traduction",
+        "prefix": "Tatsumaki",
+        "welc_channel": null,
+        "welc_msg": null
+    },
+    "472571959398498314": {
+        "leave_msg": null,
+        "name": "Test Server",
+        "prefix": ";autorole",
+        "welc_channel": null,
+        "welc_msg": null
+    }
+}

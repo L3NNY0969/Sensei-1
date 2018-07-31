@@ -1,0 +1,40 @@
+{
+    "user" : {
+        "155134020835999745" : {
+            "balance" : 100,
+            "streak" : 0,
+            "streaktime" : 1533004608.386,
+            "votetime" : null
+        },
+        "246938839720001536" : {
+            "balance" : 100,
+            "streak" : 0,
+            "streaktime" : 1533006378.987,
+            "votetime" : null
+        },
+        "300088143422685185" : {
+            "balance" : 91,
+            "streak" : 0,
+            "streaktime" : 1533000191.668,
+            "votetime" : null
+        },
+        "340745895932854272" : {
+            "balance" : 100,
+            "streak" : 0,
+            "streaktime" : 1533001430.855,
+            "votetime" : null
+        },
+        "392151500929105920" : {
+            "balance" : 709,
+            "streak" : 1,
+            "streaktime" : 1533097987.515,
+            "votetime" : 1533097992.767
+        },
+        "404708655578218511" : {
+            "balance" : 100,
+            "streak" : 0,
+            "streaktime" : 1533001380.165,
+            "votetime" : null
+        }
+    }
+}

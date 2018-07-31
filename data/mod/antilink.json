@@ -1,0 +1,23 @@
+{
+    "400028193203027978" : {
+        "admintoggle" : false,
+        "bottoggle" : true,
+        "channels" : {},
+        "modtoggle" : true,
+        "toggle" : false
+    },
+    "431624520886124548" : {
+        "admintoggle" : false,
+        "bottoggle" : false,
+        "channels" : {},
+        "modtoggle" : true,
+        "toggle" : true
+    },
+    "473225841485152258" : {
+        "admintoggle" : false,
+        "bottoggle" : true,
+        "channels" : {},
+        "modtoggle" : true,
+        "toggle" : false
+    }
+}
