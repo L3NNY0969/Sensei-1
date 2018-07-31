@@ -1,5 +1,5 @@
 # Byte-compiled / optimized / DLL files
-*.json
+apikeys.json
 __pycache__/
 *.py[cod]
 *$py.class
